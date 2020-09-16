@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # GTA Style 3rd Person Controller / Camera Example
 Simple 3rd person controller example for Unity demonstrating camera-relative movement, root motion animation and the new Cinemachine 3rd Person Follow / Aim system
 
