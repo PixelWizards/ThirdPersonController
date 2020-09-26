@@ -26,3 +26,8 @@ This script wraps the new 3rd person follow camera extension that ships with Cin
 Supports toggling which side the camera is on (ala Ghost Recon Wildlands) and also exposes inverting for vertical and horizontal camera rotations.
 
 ![CameraController](/Docs/CameraController.png)
+
+# Usage, etc #
+Project is setup for 2019.4.5f1, and this repo uses Git LFS.
+
+Licensed under the MIT License
