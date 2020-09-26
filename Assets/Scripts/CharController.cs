@@ -2,7 +2,9 @@ using UnityEngine;
 
 namespace PixelWizards.GameSystem.Controllers
 {
-    // the actual monobehaviour that you attach to your character. 
+    /// <summary>
+    /// Simple camera-relative character controller (similar to GTA / Zelda etc)
+    /// </summary>
     public class CharController : MonoBehaviour
     {
         [Header("References")]
