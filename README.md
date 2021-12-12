@@ -28,6 +28,10 @@ Supports toggling which side the camera is on (ala Ghost Recon Wildlands) and al
 ![CameraController](/Docs/CameraController.png)
 
 # Usage, etc #
-Project is setup for 2019.4.5f1, and this repo uses Git LFS.
+Main branch updated to use 2020.3
+
+You can find 2019.4 versions in the branch /versions/2019.4
+
+This repo uses Git LFS.
 
 Licensed under the MIT License
