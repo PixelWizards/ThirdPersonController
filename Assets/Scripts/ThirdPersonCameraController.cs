@@ -48,7 +48,7 @@ namespace PixelWizards.GameSystem.Controllers
         // where we are in the transition from side to side
         private float desiredCameraSide = 1f;
 
-        private void tart()
+        private void Start()
         {
             if (vcam == null)
             {
